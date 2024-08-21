@@ -1,0 +1,1 @@
+SELECT * FROM good_health_well_being.diseases;

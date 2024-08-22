@@ -1,0 +1,5 @@
+Our project focuses on improving healthcare data management through the creation of a relational database that aligns with SDG 3: Good Health and Well-Being.
+Chosen SDG:
+SDG 3: Good Health and Well-Being aims to ensure healthy lives and promote well-being for all ages.
+Goal:
+The goal is to streamline healthcare operations, enhance patient care, and enable data-driven decision-making through the efficient management and analysis of healthcare data.

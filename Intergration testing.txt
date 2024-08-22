@@ -1,0 +1,10 @@
+Integration Process
+Title: Integration Process
+Content:
+Data Integration:
+The integration process involved exporting data from the MySQL database in CSV format and importing it into Excel for analysis and visualization.
+Steps:
+Data was exported using SQL queries that saved the data as CSV files.
+These CSV files were then imported into Excel, where they were used to create pivot tables, charts, and the interactive dashboard.
+Data Consistency:
+Ensuring data consistency was a critical step. We compared the values in the database with those in Excel to ensure accuracy. Any discrepancies were identified and corrected to maintain data integrity.

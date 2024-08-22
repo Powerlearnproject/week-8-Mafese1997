@@ -1,0 +1,11 @@
+ Testing and Validation
+Title: Testing and Validation
+Content:
+Testing Process:
+The Excel dashboard underwent rigorous testing to ensure accuracy and functionality.
+Accuracy Testing:
+We cross-checked all calculated metrics, such as averages and totals, against the original database values to confirm their correctness.
+Data Update Simulations:
+Simulated data updates were performed to ensure the dashboard reflects real-time changes accurately. This involved importing new data into the database and verifying that these updates were correctly reflected in the Excel dashboard.
+Validation:
+The final validation confirmed that the dashboard is reliable, with all data updates and filtering options working seamlessly, ensuring it meets the project’s objectives.
